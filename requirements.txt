@@ -1,0 +1,7 @@
+characterai
+PyQt5
+qasync
+PyCharacterAI
+markdown
+configparser
+websockets==11.0.3

@@ -36,7 +36,7 @@ CharacterAI chatbot with GUI using PyQt5. Enjoy a rich and interactive chatting 
 
 ### Configuration
 
-1.  **Edit `config.ini`:**  This file holds your Character AI credentials. **IMPORTANT:** Do not commit your actual token and character ID to a public repository!
+1.  **Edit `config.ini`:**  This file holds your Character AI credentials.
     ```ini
     [DEFAULT]
     token = YOUR_CHARACTERAI_TOKEN  ; See aiocai's docs
